@@ -4,7 +4,7 @@ on:
   branches:
     - master
     env:
-SOLUTION_FILE_PATH: project/CG2_LE2C_0_1.shn
+SOLUTION_FILE_PATH: CG2_LE2C_0_1.shn
 CONFIGURATION: Debug
 
 
